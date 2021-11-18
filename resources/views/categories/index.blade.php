@@ -1,3 +1,4 @@
+<div><a href="/">Home</a></div>
 <a href="{{ route('categories.create') }}">New Category</a>
 
 @if(session('message'))

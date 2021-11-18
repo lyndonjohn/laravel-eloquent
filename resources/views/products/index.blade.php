@@ -1,3 +1,4 @@
+<div><a href="/">Home</a></div>
 <a href="{{ route('products.create') }}">New Product</a>
 
 @if(session('message'))
